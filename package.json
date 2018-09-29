@@ -1,0 +1,23 @@
+{
+  "name": "cbe",
+  "version": "1.0.0",
+  "description": "cbe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srilathasankaramanchi/cbe.git"
+  },
+  "author": "srilatha sankaramanchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srilathasankaramanchi/cbe/issues"
+  },
+  "homepage": "https://github.com/srilathasankaramanchi/cbe#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
